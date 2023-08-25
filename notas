@@ -1,0 +1,8 @@
+El ingreso de un vendedor está determinado por: su sueldo base, el monto mensual de sus vtas y un bono en caso de ser de 3era edad. El porcentaje de la comisión por vtas se determina en base a la siguiente tabla:
+MONTO VENDIDO %
+Más de 0 y menor a Bs. 75000 5 
+>= 90.000 y <200.000 : 7
+>=300.000 y <1.000.000 : 8
+>= 1.500.000 : 10
+ otro mto fuera de rango 6
+ Si la persona es de tercera edad se le debe pagar un bono de adulto mayor de 40000 Bs. Tercera edad: [M]ujeres de 55 años o más [[H]ombres de 60 años o más 
